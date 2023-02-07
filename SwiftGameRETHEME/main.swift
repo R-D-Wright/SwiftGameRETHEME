@@ -14,7 +14,7 @@ let gameOver = "Sorry GAME OVER!"
 // NOTE: \n creates a new line (AKA Line break) when displayed in the debug console
 let newLine = "\n"
 
-let q1 = "You just got your sandwich from subway and begin your walk home" + newLine + "1. Take the scenice route" + newLine + "OR" + newLine + "2. Try taking a shortcut through the dark and mysterious woods" + newLine + enter
+let q1 = "You just got your sandwich from subway and begin your walk home" + newLine + "1. Take the scenic route" + newLine + "OR" + newLine + "2. Try taking a shortcut through the dark and mysterious woods" + newLine + enter
 
 let gameOver1 = "You journey into the mysterious woods and are jumped by a gang of gnomes. " + gameOver
 
